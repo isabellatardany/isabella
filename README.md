@@ -1,2 +1,2 @@
 # isabella
-projeto isabella
+projeto isabella de front end
